@@ -1,0 +1,8 @@
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGameResultCalculator\bin\Debug\CricketGameResultCalculator.dll
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGameResultCalculator\bin\Debug\CricketGameResultCalculator.pdb
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGameResultCalculator\bin\Debug\CricketGame.dll
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGameResultCalculator\bin\Debug\CricketGame.pdb
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGameResultCalculator\obj\Debug\CricketGameResultCalculator.csprojResolveAssemblyReference.cache
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGameResultCalculator\obj\Debug\CricketGameResultCalculator.csproj.CoreCompileInputs.cache
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGameResultCalculator\obj\Debug\CricketGameResultCalculator.dll
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGameResultCalculator\obj\Debug\CricketGameResultCalculator.pdb

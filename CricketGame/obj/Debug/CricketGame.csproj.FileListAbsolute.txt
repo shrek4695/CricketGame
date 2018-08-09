@@ -1,0 +1,5 @@
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGame\bin\Debug\CricketGame.dll
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGame\bin\Debug\CricketGame.pdb
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGame\obj\Debug\CricketGame.csproj.CoreCompileInputs.cache
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGame\obj\Debug\CricketGame.dll
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGame\obj\Debug\CricketGame.pdb

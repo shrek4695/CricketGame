@@ -1,0 +1,17 @@
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGameResultCalculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGameResultCalculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGameResultCalculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGameResultCalculator.Test\bin\Debug\CricketGameResultCalculator.Test.dll
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGameResultCalculator.Test\bin\Debug\CricketGameResultCalculator.Test.pdb
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGameResultCalculator.Test\bin\Debug\CricketGame.dll
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGameResultCalculator.Test\bin\Debug\CricketGameResultCalculator.dll
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGameResultCalculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGameResultCalculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGameResultCalculator.Test\bin\Debug\CricketGameResultCalculator.pdb
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGameResultCalculator.Test\bin\Debug\CricketGame.pdb
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGameResultCalculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGameResultCalculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGameResultCalculator.Test\obj\Debug\CricketGameResultCalculator.Test.csprojResolveAssemblyReference.cache
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGameResultCalculator.Test\obj\Debug\CricketGameResultCalculator.Test.csproj.CoreCompileInputs.cache
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGameResultCalculator.Test\obj\Debug\CricketGameResultCalculator.Test.dll
+C:\Users\skapoor\source\repos\CricketGameKata\CricketGameResultCalculator.Test\obj\Debug\CricketGameResultCalculator.Test.pdb
